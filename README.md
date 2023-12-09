@@ -41,4 +41,4 @@ To run the project locally, follow these steps:
 
 ## Backend Repository
 
-For the backend server code, you can find the repository at [Server Repo](https://github.com/your-username/backend-repo).
+For the backend server code, you can find the repository at [Server Repo](https://github.com/dibyenduweb/asset-management-server).
